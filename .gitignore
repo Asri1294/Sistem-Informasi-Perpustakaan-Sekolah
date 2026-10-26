@@ -1,0 +1,17 @@
+# Konfigurasi lingkungan lokal
+.env
+.env.*
+!.env.example
+
+# Kunci privat
+*.pem
+*.key
+
+# Log dan berkas sementara
+*.log
+*.tmp
+*.bak
+
+# Berkas sistem operasi
+.DS_Store
+Thumbs.db
