@@ -7,3 +7,5 @@ Aplikasi web sederhana untuk membantu petugas perpustakaan sekolah mengelola dat
 ## Deskripsi Proyek
 
 Sistem Informasi Perpustakaan Sekolah merupakan aplikasi berbasis web yang menyediakan fitur pengelolaan data perpustakaan melalui halaman admin. Aplikasi ini dibuat sebagai latihan awal pengembangan web dengan PHP dan MySQL.
+
+Link demo: https://drive.google.com/file/d/1Wk4UjTXTlpDbEeX-hc3vknIHFOTBjwIv/view?usp=sharing
