@@ -93,7 +93,7 @@ Akses alamat berikut melalui peramban:
 Gunakan akun berikut untuk mengakses halaman admin pada instalasi awal:
 
 - **Username:** `admin`
-- **Password:** `admin123`
+- **Password:** `ad********`
 
 
 ## Struktur Proyek
